@@ -5,5 +5,7 @@ TODO:
 Add support for other VSRG games besides osu!mania  
 Add LN generation method  
 Improve anchor detection in pattern generation  
+Fix snapping issues  
+Create UI for tool
   
 
